@@ -3,7 +3,7 @@ function evenOrodd (num){
         return console.log("The number is even");
     }
     else{
-        console.log("The number is odd")
+        console.log("The number is odd");
     }
 }
 evenOrodd(17)
